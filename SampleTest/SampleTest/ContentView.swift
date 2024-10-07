@@ -7,7 +7,7 @@
 
 import SwiftUI
 import CoreData
-// initial commit
+// initial commit...
 struct ContentView: View {
     @Environment(\.managedObjectContext) private var viewContext
 
